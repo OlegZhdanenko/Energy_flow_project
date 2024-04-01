@@ -153,5 +153,5 @@ function controlPageValue() {
     } else if (favoriteArr.length > 16) {
         btnSecond.style.display = 'flex'
         btnThird.style.display = 'flex'
-    }
+    };
 }
